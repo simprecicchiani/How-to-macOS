@@ -1,11 +1,13 @@
 <img align="right" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/MacOS_logo_%282017%29.svg/1024px-MacOS_logo_%282017%29.svg.png" alt="T460s macOS" width="100">
-# How to
+
+# How to macOS
+
 Should you find an error or improve anything please consider opening an issue or pull request.  
 If you find my work useful, please consider donating via PayPal.
 It would mean a lot to me.  
 [![donate](https://img.shields.io/badge/-buy%20me%20a%20coffee-orange)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=Y5BE5HYACDERG&source=url)
 
-A collection of useful command that are rarely used (maybe once a year or for new OS installation) and so, hardly remembered.
+A collection of useful command that are rarely used (maybe once a year or for fresh OS installations) and so, hardly remembered.
 
 This is not a beginners guide. These commands want to help medium/high experienced users that need more control over basic system settings.
 
